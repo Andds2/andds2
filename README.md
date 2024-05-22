@@ -6,6 +6,7 @@
 > * 📕 Cursando 2º semestre de Gestão de T.I.
 > * 🎓 Técnico em Desenvolvimento de Sistemas
 > * 🧑‍💻 Dev Front-End
+> * ☁️ Estudando Back-End
 
 
 
