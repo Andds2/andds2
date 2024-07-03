@@ -7,6 +7,7 @@
 > * 🎓 Técnico em Desenvolvimento de Sistemas
 > * 🧑‍💻 Dev Front-End
 > * ☁️ Estudando Back-End
+> * [Site](https://andds2.github.io/portfolio/)
 
 
 
