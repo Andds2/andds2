@@ -3,9 +3,9 @@
 </div>
 
 ## <center> Olá, eu sou Luis 👋 </center> 
-> * 📕 Cursando 2º semestre de Gestão de T.I.
+> * 📕 Cursando 6º semestre de Gestão de T.I.
 > * 🎓 Técnico em Desenvolvimento de Sistemas
-> * 🧑‍💻 Dev Front-End
+> * 🧑‍💻 Dev. Junior 
 > * ☁️ Estudando Back-End
 > * [Site](https://andds2.github.io/portfolio/)
 
@@ -16,16 +16,21 @@
 
 ## ☕ Linguagens e Tecnologias 
 <div style="width: 100%; display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40px"/>   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40px"/>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"/>
 </div>
 <br>
@@ -37,7 +42,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333c3b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-andrade-a6ab2b284)
 [![Instagram](https://img.shields.io/badge/Instagram-484a4c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.anddd?igsh=MWF2cTBhcmU1eWpqNw==)
-[![Twitter](https://img.shields.io/badge/Twitter-333c3b?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/euAnddd)
 [![Discord](https://img.shields.io/badge/Discord-484a4c?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/689272566338027521)
 [![Spotify](https://img.shields.io/badge/Spotify-333c3b?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31wq5w6jagmmexdnqi4uv4bt6f4m?si=711210b01c0647e4)
 
